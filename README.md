@@ -6,11 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/MemonAman">
-    <img src="https://komarev.com/ghpvc/?username=MemonAman&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
-</p>
 
 ---
 
@@ -53,7 +48,6 @@
 
 # 📊 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MemonAman&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MemonAman&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
